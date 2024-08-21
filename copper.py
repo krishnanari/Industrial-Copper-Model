@@ -17,7 +17,7 @@ from sklearn.preprocessing import LabelBinarizer
 # --------------------------------------------------Logo & details on top
 
 icon = Image.open("cpr.png")
-st.set_page_config(page_title= "Industrial Copper Modeling | By Dhanalakshmi S",
+st.set_page_config(page_title= "Industrial Copper Modeling | By Ari Krishnan",
                    page_icon= icon,
                    layout= "wide",
                    initial_sidebar_state= "expanded")
